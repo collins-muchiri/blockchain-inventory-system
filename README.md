@@ -1,9 +1,9 @@
 # Enterprise Blockchain Inventory Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/bucky-ops/blockchain-inventory-system/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/bucky-ops/blockchain-inventory-system/actions)
-[![Security Scan](https://github.com/bucky-ops/blockchain-inventory-system/workflows/Security%20Scan/badge.svg)](https://github.com/bucky-ops/blockchain-inventory-system/actions)
-[![CodeQL](https://github.com/bucky-ops/blockchain-inventory-system/workflows/CodeQL/badge.svg)](https://github.com/bucky-ops/blockchain-inventory-system/actions)
+[![Build Status](https://github.com/collins-muchiri/blockchain-inventory-system/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/collins-muchiri/blockchain-inventory-system/actions)
+[![Security Scan](https://github.com/collins-muchiri/blockchain-inventory-system/workflows/Security%20Scan/badge.svg)](https://github.com/collins-muchiri/blockchain-inventory-system/actions)
+[![CodeQL](https://github.com/collins-muchiri/blockchain-inventory-system/workflows/CodeQL/badge.svg)](https://github.com/collins-muchiri/blockchain-inventory-system/actions)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -95,7 +95,7 @@ Before installing the system, ensure you have the following prerequisites:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/bucky-ops/blockchain-inventory-system.git
+   git clone https://github.com/collins-muchiri/blockchain-inventory-system.git
    cd blockchain-inventory-system
    ```
 
@@ -349,8 +349,8 @@ We welcome contributions to the project! Please see our [Contributing Guide](CON
 ### Getting Help
 
 - **Documentation**: [Project Documentation](docs/)
-- **Issues**: [GitHub Issues](https://github.com/bucky-ops/blockchain-inventory-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/bucky-ops/blockchain-inventory-system/discussions)
+- **Issues**: [GitHub Issues](https://github.com/collins-muchiri/blockchain-inventory-system/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/collins-muchiri/blockchain-inventory-system/discussions)
 - **Email**: support@blockchain-inventory.com
 
 ### Reporting Issues
