@@ -557,16 +557,16 @@ GET /admin/metrics
 
 | Code | Description |
 |------|-------------|
-| 400 | Bad Request - Invalid input data |
-| 401 | Unauthorized - Authentication required |
-| 403 | Forbidden - Insufficient permissions |
-| 404 | Not Found - Resource not found |
-| 409 | Conflict - Duplicate resource |
-| 422 | Unprocessable Entity - Validation failed |
-| 429 | Too Many Requests - Rate limit exceeded |
+| 400 | Bad Request: Invalid input data |
+| 401 | Unauthorized: Authentication required |
+| 403 | Forbidden: Insufficient permissions |
+| 404 | Not Found: Resource not found |
+| 409 | Conflict: Duplicate resource |
+| 422 | Unprocessable Entity: Validation failed |
+| 429 | Too Many Requests: Rate limit exceeded |
 | 500 | Internal Server Error |
-| 502 | Bad Gateway - Service unavailable |
-| 503 | Service Unavailable - Maintenance mode |
+| 502 | Bad Gateway: Service unavailable |
+| 503 | Service Unavailable: Maintenance mode |
 
 ## WebSocket API
 

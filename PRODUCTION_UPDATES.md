@@ -55,10 +55,10 @@ tests/integration/
 ```
 
 ### Test Scripts Added
-- `npm run test:backend` - Backend unit tests
-- `npm run test:health` - Health endpoint tests
-- `npm run test:config` - Configuration validation
-- `npm run test:coverage` - Coverage reporting
+- `npm run test:backend`: Backend unit tests
+- `npm run test:health`: Health endpoint tests
+- `npm run test:config`: Configuration validation
+- `npm run test:coverage`: Coverage reporting
 
 ## 🔒 Security Enhancements
 

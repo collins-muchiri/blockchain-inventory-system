@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed security vulnerabilities in authentication
 - Corrected role-based access control issues
 
-## [1.0.0] - 2026-02-11
+## [1.0.0] (2026-02-11)
 
 ### Added
 - Initial release of Enterprise Blockchain Inventory Management System
